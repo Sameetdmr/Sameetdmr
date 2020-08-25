@@ -31,11 +31,11 @@
 
 
 **Languages and Tools:** &nbsp;
+<code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188260-c683e800-e6f9-11ea-91c3-1fb0ecf5b9d9.png"></code>
+<code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188255-c5eb5180-e6f9-11ea-8e1f-3ef13ba0e253.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188255-c5eb5180-e6f9-11ea-8e1f-3ef13ba0e253.png"></code>
-<code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188260-c683e800-e6f9-11ea-91c3-1fb0ecf5b9d9.png"></code>
 <code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188268-c84dab80-e6f9-11ea-91e8-9096bba2d2b0.jpg"></code>
 <code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188271-c84dab80-e6f9-11ea-9ff7-3c8c3e2fe8d5.png"></code>
 
