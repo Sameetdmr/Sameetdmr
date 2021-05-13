@@ -25,11 +25,6 @@
 - 👯 Junior Flutter Developer
 - 🌱 I’m currently learning everything 🤣
 
-## I ❤️ Memes
-
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
-
-
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188260-c683e800-e6f9-11ea-91c3-1fb0ecf5b9d9.png"></code>
 <code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188255-c5eb5180-e6f9-11ea-8e1f-3ef13ba0e253.png"></code>
