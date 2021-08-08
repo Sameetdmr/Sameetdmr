@@ -35,15 +35,6 @@
 <code><img height="15" src="https://user-images.githubusercontent.com/43873156/91188271-c84dab80-e6f9-11ea-9ff7-3c8c3e2fe8d5.png"></code>
 
 
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sameetdmr&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/sameetdmrr
 [youtube]: https://www.youtube.com/channel/UCrUkU4rBgpjaBFx7oYLGrKA
 [instagram]: https://instagram.com/sameetdmr
