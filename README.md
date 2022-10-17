@@ -9,7 +9,5 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sameetdmr&theme=dark)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sameetdmr&theme=radical)](https://git.io/streak-stats)
 
