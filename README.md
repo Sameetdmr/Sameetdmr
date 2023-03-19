@@ -3,6 +3,6 @@
 
 
 
-- 👯 Junior Flutter Developer
+- 👯 Flutter Developer
 - 🌱 I’m currently learning everything 🤣
 
