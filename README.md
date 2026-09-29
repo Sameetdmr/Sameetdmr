@@ -15,7 +15,7 @@ name        : Samed Demir
 title       : Mobile Software Engineer
 location    : Istanbul, Turkey 🇹🇷
 focus       : Flutter · Dart · SDK Development · AI Integration
-open_to     : Senior Mobile Engineer · Flutter Tech Lead · Freelance
+open_to     : Senior Mobile Engineer 
 portfolio   : https://sameetdmr.github.io
 ```
 
